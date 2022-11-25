@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# github에 안 올릴 파일들
+/새 폴더
+/others
+BISTRO.pptx
+FIFAranking.txt
+G반_서비스 산업 데이터 PJT_1조_기획안.docx
+G반_서비스 산업 데이터 PJT_1조_포트폴리오.pptx
+semi_project_1조.zip
+model.pkl
